@@ -13,4 +13,6 @@ You can schedule this script in Task Scheduler.
 
 ## :snake: Dependencies
 
-Written in Python for Windows. Requires Microsoft Word, as the script creates a DOCX file. LibreOffice and/or OpenOffice should work too.
+Written in Python for Windows. This script uses the following Python modules: docx, os, datetime.
+
+Requires Microsoft Word, as the script creates a DOCX file. LibreOffice and/or OpenOffice should work too.
