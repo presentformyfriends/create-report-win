@@ -1,4 +1,4 @@
-# createReportWin
+# create-report-win
 Python script to create a "Weekly Report" DOCX document with current date and page numbers, saves with current date filename, and then opens the saved document with Microsoft Word.
 
 Written for Windows.
